@@ -1,1 +1,1 @@
-# ruby-gost-game
+# ruby-gost-game :rocket:
